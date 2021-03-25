@@ -1,0 +1,2 @@
+• Created an application that provides users the shortest and quickest connecting flight to a destination from a given airport by implementing Dijkstra's algorithm.
+• Technical skills used: Java, JUnit, Data Structures
